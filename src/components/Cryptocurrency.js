@@ -3,6 +3,7 @@ import './Cryptocurrency.css';
 
 class Cryptocurrency extends Component {
     render() {
+        // Destructuring
         var {
             id,
             name,
